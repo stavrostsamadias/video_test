@@ -1,5 +1,5 @@
 gunicorn
 flask
-cv2
+opencv-python
 base64
 numpy 
